@@ -1,0 +1,22 @@
+{
+  "object": {
+    "type": "CMIT",
+    "phid": "PHID-CMIT-5bw36fedgogolazfrccd"
+  },
+  "triggers": [
+    {
+      "phid": "PHID-HWBH-tdn2kktqozalfzbtnyib"
+    }
+  ],
+  "action": {
+    "test": false,
+    "silent": false,
+    "secure": false,
+    "epoch": 1564831883
+  },
+  "transactions": [
+    {
+      "phid": "PHID-XACT-CMIT-vlrv2dorfuanrs4"
+    }
+  ]
+}
